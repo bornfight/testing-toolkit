@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "6f60ebee5508b0d2100ac8cc19c88e01",
+    "content-hash": "057920f8d7f3db5d21c676244f9e177f",
     "packages": [
         {
             "name": "behat/gherkin",
@@ -385,20 +385,20 @@
         },
         {
             "name": "degordian/php-coding-standards",
-            "version": "v1.0.0",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/degordian/php-coding-standards.git",
-                "reference": "478b65166528909eaf0421f05edb9ae1dc3cd92e"
+                "reference": "cb8eda71eadce948a932438f5ed925bdd3897734"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/degordian/php-coding-standards/zipball/478b65166528909eaf0421f05edb9ae1dc3cd92e",
-                "reference": "478b65166528909eaf0421f05edb9ae1dc3cd92e",
+                "url": "https://api.github.com/repos/degordian/php-coding-standards/zipball/cb8eda71eadce948a932438f5ed925bdd3897734",
+                "reference": "cb8eda71eadce948a932438f5ed925bdd3897734",
                 "shasum": ""
             },
             "require": {
-                "yiisoft/yii2-coding-standards": "*"
+                "yiisoft/yii2-coding-standards": "dev-phpcs-3.0/refactor"
             },
             "type": "library",
             "notification-url": "https://packagist.org/downloads/",
@@ -415,7 +415,7 @@
                 "degordian",
                 "style-guide"
             ],
-            "time": "2017-04-18T13:23:49+00:00"
+            "time": "2017-05-08 13:41:58"
         },
         {
             "name": "doctrine/instantiator",
@@ -3909,7 +3909,8 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "neronmoon/teamcity-codeception": 20
+        "neronmoon/teamcity-codeception": 20,
+        "degordian/php-coding-standards": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,
