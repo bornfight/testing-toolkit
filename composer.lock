@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "057920f8d7f3db5d21c676244f9e177f",
+    "content-hash": "925bbe385a2db7039fde8885d6b14407",
     "packages": [
         {
             "name": "behat/gherkin",
@@ -389,16 +389,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/degordian/php-coding-standards.git",
-                "reference": "cb8eda71eadce948a932438f5ed925bdd3897734"
+                "reference": "b0537adfb65a5f6161d7197f478d2aebe0dbf20b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/degordian/php-coding-standards/zipball/cb8eda71eadce948a932438f5ed925bdd3897734",
-                "reference": "cb8eda71eadce948a932438f5ed925bdd3897734",
+                "url": "https://api.github.com/repos/degordian/php-coding-standards/zipball/b0537adfb65a5f6161d7197f478d2aebe0dbf20b",
+                "reference": "b0537adfb65a5f6161d7197f478d2aebe0dbf20b",
                 "shasum": ""
             },
             "require": {
-                "yiisoft/yii2-coding-standards": "dev-phpcs-3.0/refactor"
+                "yiisoft/yii2-coding-standards": "3.0"
             },
             "type": "library",
             "notification-url": "https://packagist.org/downloads/",
@@ -415,7 +415,7 @@
                 "degordian",
                 "style-guide"
             ],
-            "time": "2017-05-08 13:41:58"
+            "time": "2017-05-08 14:03:11"
         },
         {
             "name": "doctrine/instantiator",
@@ -3838,24 +3838,17 @@
         },
         {
             "name": "yiisoft/yii2-coding-standards",
-            "version": "2.0.2",
+            "version": "v3.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/yiisoft/yii2-coding-standards.git",
-                "reference": "84660f44652aa3df30b7bebe5fb666fbe5523f66"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/yiisoft/yii2-coding-standards/zipball/84660f44652aa3df30b7bebe5fb666fbe5523f66",
-                "reference": "84660f44652aa3df30b7bebe5fb666fbe5523f66",
-                "shasum": ""
+                "url": "https://github.com/krukru/yii2-coding-standards",
+                "reference": "9b675ceb95bc8b421f31315b0786c02a2a84857d"
             },
             "require": {
                 "php": ">=5.4.0",
-                "squizlabs/php_codesniffer": ">=2.3.1"
+                "squizlabs/php_codesniffer": ">=3.0"
             },
             "type": "library",
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "BSD-3-Clause"
             ],
@@ -3902,7 +3895,14 @@
                 "framework",
                 "yii"
             ],
-            "time": "2016-11-07T16:09:12+00:00"
+            "support": {
+                "issues": "https://github.com/yiisoft/yii2/issues?state=open",
+                "forum": "http://www.yiiframework.com/forum/",
+                "wiki": "http://www.yiiframework.com/wiki/",
+                "irc": "irc://irc.freenode.net/yii",
+                "source": "https://github.com/yiisoft/yii2"
+            },
+            "time": "2017-05-04T12:27:55+00:00"
         }
     ],
     "packages-dev": [],

@@ -6,7 +6,11 @@
         {
             "type": "git",
             "url": "https://github.com/degordian/TeamcityCodeception"
-        }
+        },
+    {
+      "type": "git",
+      "url": "https://github.com/krukru/yii2-coding-standards"
+    }
     ],
     "require": {
         "codeception/codeception": "*",
