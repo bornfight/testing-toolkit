@@ -1,7 +1,3 @@
-*
-!.gitignore
-!README.md
-!composer.json
-!composer.lock
-!deg-ruleset.xml
-!yii-ruleset.xml
+.idea
+c3.php
+vendor
