@@ -15,7 +15,7 @@
   "require": {
     "codeception/codeception": "*",
     "codeception/specify": "*",
-    "codeception/verify": "*",
+    "codeception/verify": "0.3.3",
     "codeception/c3": "*",
     "neronmoon/teamcity-codeception": "dev-master",
     "codeception/mockery-module": "*",
