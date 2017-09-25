@@ -391,12 +391,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/degordian/php-coding-standards.git",
-                "reference": "81df595f634c2358b4ab3dadecfc8836bca41bee"
+                "reference": "eafcbf476bfbea4871108cd5a72577989f5e931b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/degordian/php-coding-standards/zipball/81df595f634c2358b4ab3dadecfc8836bca41bee",
-                "reference": "81df595f634c2358b4ab3dadecfc8836bca41bee",
+                "url": "https://api.github.com/repos/degordian/php-coding-standards/zipball/eafcbf476bfbea4871108cd5a72577989f5e931b",
+                "reference": "eafcbf476bfbea4871108cd5a72577989f5e931b",
                 "shasum": ""
             },
             "require": {
@@ -417,7 +417,7 @@
                 "degordian",
                 "style-guide"
             ],
-            "time": "2017-09-19T15:12:45+00:00"
+            "time": "2017-09-22T10:14:40+00:00"
         },
         {
             "name": "doctrine/instantiator",
