@@ -30,7 +30,8 @@
     "flow/jsonpath": "*",
     "phploc/phploc": "*",
     "pdepend/pdepend": "*",
-    "sensiolabs/security-checker": "*"
+    "sensiolabs/security-checker": "*",
+    "phpbench/phpbench": "*"
   },
   "authors": [
     {
