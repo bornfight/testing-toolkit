@@ -1,0 +1,22 @@
+{
+  "name": "testing-toolkit",
+  "version": "1.0.0",
+  "description": "A collection of various tools for testing and static analysis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/degordian/testing-toolkit.git"
+  },
+  "author": "Marko Kruljac",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/degordian/testing-toolkit/issues"
+  },
+  "homepage": "https://github.com/degordian/testing-toolkit#readme",
+  "dependencies": {
+    "jsinspect": "^0.12.7"
+  }
+}
