@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/degordian/testing-toolkit#readme",
   "dependencies": {
-    "eslint": "^4.9.0",
+    "eslint": "^4.10.0",
     "eslint-config-airbnb": "^16.1.0",
     "eslint-fixer": "^0.1.4",
     "eslint-plugin-import": "^2.8.0",
