@@ -17,13 +17,13 @@
   },
   "homepage": "https://github.com/degordian/testing-toolkit#readme",
   "dependencies": {
-    "eslint": "^4.13.1",
+    "eslint": "^4.14.0",
     "eslint-config-airbnb": "^16.1.0",
     "eslint-fixer": "^0.1.4",
     "eslint-plugin-import": "^2.8.0",
-    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.5.1",
     "jsinspect": "^0.12.7",
-    "sitespeed.io": "^6.1.2"
+    "sitespeed.io": "^6.2.3"
   }
 }
