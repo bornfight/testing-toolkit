@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "9803c92686f4df0bb8e2f951b4f196ac",
+    "content-hash": "287fea3d7861768effa82531234d4cb5",
     "packages": [
         {
             "name": "beberlei/assert",
@@ -518,12 +518,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/degordian/php-coding-standards.git",
-                "reference": "8b6806ac79cc7b386ce988b68305f3f346964058"
+                "reference": "1e301d4b848d38ddc53085388027942f84e971a8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/degordian/php-coding-standards/zipball/8b6806ac79cc7b386ce988b68305f3f346964058",
-                "reference": "8b6806ac79cc7b386ce988b68305f3f346964058",
+                "url": "https://api.github.com/repos/degordian/php-coding-standards/zipball/1e301d4b848d38ddc53085388027942f84e971a8",
+                "reference": "1e301d4b848d38ddc53085388027942f84e971a8",
                 "shasum": ""
             },
             "require": {
@@ -544,7 +544,7 @@
                 "degordian",
                 "style-guide"
             ],
-            "time": "2018-06-14T12:08:37+00:00"
+            "time": "2018-06-14T12:27:46+00:00"
         },
         {
             "name": "doctrine/annotations",
@@ -1467,45 +1467,6 @@
                 "object graph"
             ],
             "time": "2018-06-11T23:09:50+00:00"
-        },
-        {
-            "name": "neronmoon/teamcity-codeception",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/degordian/TeamcityCodeception",
-                "reference": "b4cc92524d93a6b6370a5d70ce2c41024a27666d"
-            },
-            "require": {
-                "php": ">=5.4"
-            },
-            "require-dev": {
-                "codeception/codeception": "2.*"
-            },
-            "type": "package",
-            "autoload": {
-                "psr-0": {
-                    "Codeception": "src"
-                }
-            },
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Vitaliy Krasnoperov",
-                    "email": "alistar.neron@gmail.com"
-                }
-            ],
-            "description": "Integrating codeception builds with codeception",
-            "homepage": "https://github.com/neronmoon/teamcitycodeception",
-            "keywords": [
-                "codeception",
-                "teamcity",
-                "test-reporting",
-                "testing"
-            ],
-            "time": "2016-07-01T12:45:14+00:00"
         },
         {
             "name": "nikic/php-parser",
@@ -4815,7 +4776,6 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "neronmoon/teamcity-codeception": 20,
         "degordian/php-coding-standards": 20
     },
     "prefer-stable": false,
