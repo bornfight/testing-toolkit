@@ -5,10 +5,6 @@
   "repositories": [
     {
       "type": "git",
-      "url": "https://github.com/degordian/TeamcityCodeception"
-    },
-    {
-      "type": "git",
       "url": "https://github.com/krukru/yii2-coding-standards"
     }
   ],
@@ -17,7 +13,6 @@
     "codeception/specify": "*",
     "codeception/verify": "*",
     "codeception/c3": "*",
-    "neronmoon/teamcity-codeception": "dev-master",
     "codeception/mockery-module": "*",
     "php-mock/php-mock-mockery": "*",
     "league/factory-muffin": "*",
