@@ -1,10 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "287fea3d7861768effa82531234d4cb5",
+    "content-hash": "1ebadd96c9bd18478f12bae95274853c",
     "packages": [
         {
             "name": "beberlei/assert",
@@ -304,16 +304,16 @@
         },
         {
             "name": "codeception/phpunit-wrapper",
-            "version": "7.1.3",
+            "version": "7.1.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Codeception/phpunit-wrapper.git",
-                "reference": "6a6244340e942a8d88cd9579d23c80b0ba10d46d"
+                "reference": "f18ed631f1eddbb603d72219f577d223b23a1f89"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Codeception/phpunit-wrapper/zipball/6a6244340e942a8d88cd9579d23c80b0ba10d46d",
-                "reference": "6a6244340e942a8d88cd9579d23c80b0ba10d46d",
+                "url": "https://api.github.com/repos/Codeception/phpunit-wrapper/zipball/f18ed631f1eddbb603d72219f577d223b23a1f89",
+                "reference": "f18ed631f1eddbb603d72219f577d223b23a1f89",
                 "shasum": ""
             },
             "require": {
@@ -343,7 +343,7 @@
                 }
             ],
             "description": "PHPUnit classes used by Codeception",
-            "time": "2018-05-22T09:20:59+00:00"
+            "time": "2018-06-20T20:07:21+00:00"
         },
         {
             "name": "codeception/specify",
@@ -514,16 +514,16 @@
         },
         {
             "name": "degordian/php-coding-standards",
-            "version": "dev-master",
+            "version": "v1.0.4.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/degordian/php-coding-standards.git",
-                "reference": "1e301d4b848d38ddc53085388027942f84e971a8"
+                "reference": "3cafa0dc4f237b3f05a4bb84cef1092b169f54a7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/degordian/php-coding-standards/zipball/1e301d4b848d38ddc53085388027942f84e971a8",
-                "reference": "1e301d4b848d38ddc53085388027942f84e971a8",
+                "url": "https://api.github.com/repos/degordian/php-coding-standards/zipball/3cafa0dc4f237b3f05a4bb84cef1092b169f54a7",
+                "reference": "3cafa0dc4f237b3f05a4bb84cef1092b169f54a7",
                 "shasum": ""
             },
             "require": {
@@ -544,7 +544,7 @@
                 "degordian",
                 "style-guide"
             ],
-            "time": "2018-06-14T12:27:46+00:00"
+            "time": "2018-06-14T13:01:15+00:00"
         },
         {
             "name": "doctrine/annotations",
@@ -1557,7 +1557,7 @@
                 "BSD-3-Clause"
             ],
             "description": "Official version of pdepend to be handled with Composer",
-            "time": "2017-12-12T17:28:44+00:00"
+            "time": "2017-12-13T13:21:38+00:00"
         },
         {
             "name": "phar-io/manifest",
@@ -2960,16 +2960,16 @@
         },
         {
             "name": "sebastian/comparator",
-            "version": "3.0.0",
+            "version": "3.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/comparator.git",
-                "reference": "ed5fd2281113729f1ebcc64d101ad66028aeb3d5"
+                "reference": "591a30922f54656695e59b1f39501aec513403da"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/comparator/zipball/ed5fd2281113729f1ebcc64d101ad66028aeb3d5",
-                "reference": "ed5fd2281113729f1ebcc64d101ad66028aeb3d5",
+                "url": "https://api.github.com/repos/sebastianbergmann/comparator/zipball/591a30922f54656695e59b1f39501aec513403da",
+                "reference": "591a30922f54656695e59b1f39501aec513403da",
                 "shasum": ""
             },
             "require": {
@@ -3020,7 +3020,7 @@
                 "compare",
                 "equality"
             ],
-            "time": "2018-04-18T13:33:00+00:00"
+            "time": "2018-06-14T15:05:28+00:00"
         },
         {
             "name": "sebastian/diff",
@@ -4775,9 +4775,7 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "degordian/php-coding-standards": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
