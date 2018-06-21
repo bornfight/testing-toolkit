@@ -21,7 +21,7 @@
     "phpmd/phpmd": "*",
     "phpmetrics/phpmetrics": "*",
     "sebastian/phpcpd": "*",
-    "degordian/php-coding-standards": "dev-master",
+    "degordian/php-coding-standards": "1.0.4.1",
     "flow/jsonpath": "*",
     "phploc/phploc": "*",
     "pdepend/pdepend": "*",
