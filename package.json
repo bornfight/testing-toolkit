@@ -24,7 +24,7 @@
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.9.1",
     "jsinspect": "^0.12.7",
-    "sitespeed.io": "^6.5.1",
+    "sitespeed.io": "^7.7.2",
     "tslint": "^5.9.1",
     "tslint-sonarts": "^1.7.0",
     "typescript": "^2.9.2"
