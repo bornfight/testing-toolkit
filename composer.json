@@ -24,9 +24,10 @@
     "degordian/php-coding-standards": "^1.0",
     "flow/jsonpath": "*",
     "phploc/phploc": "*",
-    "pdepend/pdepend": "*",
+    "pdepend/pdepend": "^2.5",
     "sensiolabs/security-checker": "*",
-    "phpbench/phpbench": "*"
+    "phpbench/phpbench": "*",
+    "phpstan/phpstan": "^0.10.3"
   },
   "authors": [
     {
