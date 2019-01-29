@@ -27,7 +27,8 @@
     "pdepend/pdepend": "^2.5",
     "sensiolabs/security-checker": "*",
     "phpbench/phpbench": "*",
-    "phpstan/phpstan": "^0.10.3"
+    "phpstan/phpstan": "^0.10.3",
+    "mayflower/php-codebrowser": "^2.0"
   },
   "authors": [
     {
