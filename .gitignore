@@ -1,4 +1,13 @@
+###> user ###
 .DS_Store
 .idea
+###< user ###
+
+###> codeception ###
 c3.php
+###< codeception ###
+
+###> composer ###
 vendor
+composer.lock
+###< composer ###
