@@ -9,5 +9,5 @@ c3.php
 
 ###> composer ###
 vendor
-composer.lock
+#composer.lock
 ###< composer ###
