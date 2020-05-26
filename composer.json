@@ -11,7 +11,8 @@
     "codeception/c3": "^2.4",
     "squizlabs/php_codesniffer": "^3.4",
     "codeception/specify": "^1.2",
-    "codeception/verify": "^1.1"
+    "codeception/verify": "^1.1",
+    "flow/jsonpath": "^0.5.0"
   },
   "authors": [
     {
